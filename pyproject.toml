@@ -1,0 +1,12 @@
+[project]
+name = "cs-biotech-website"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "pelican[markdown]",
+    "alchemy",
+    "setuptools",
+]
+
+[tool.uv.sources]
+alchemy = { git = "https://github.com/nairobilug/pelican-alchemy" }
