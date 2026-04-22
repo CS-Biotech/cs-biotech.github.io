@@ -6,7 +6,7 @@ _spec = importlib.util.find_spec('alchemy')
 _ALCHEMY_PATH = str(Path(_spec.origin).parent)
 
 AUTHOR = ''
-SITENAME = 'Hybrid CS–Biotech Modules'
+SITENAME = 'Hybrid Modules to Bridge Biotechnology and Computer Science'
 SITEURL = ''
 SITESUBTITLE = 'Bridging Biotechnology and Computer Science at the University of Toronto'
 

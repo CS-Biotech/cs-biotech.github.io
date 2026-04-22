@@ -20,7 +20,7 @@ The modules are organized into three blocks to facilitate sequential integration
 
 ## Overview of the Modules
 
-### Module Set 1 — 2nd Year Life Science Courses
+### Module Set 1 – 2nd Year Life Science Courses
 
 1. Intro to Python
 2. Programming Concepts
@@ -31,7 +31,7 @@ The modules are organized into three blocks to facilitate sequential integration
 7. Model Evaluation
 8. Applying Machine Learning
 
-### Module Set 2 — 3rd Year Life Science Courses
+### Module Set 2 – 3rd Year Life Science Courses
 
 1. Advanced Visualization
 2. Decision Trees
@@ -42,7 +42,7 @@ The modules are organized into three blocks to facilitate sequential integration
 7. Clustering
 8. Introduction to Integrated Development Environments (IDEs)
 
-### Module Set 3 — 4th Year Life Science Courses
+### Module Set 3 – 4th Year Life Science Courses
 
 1. Introduction to IDEs, Git, and GitHub
 2. Utilizing Large Language Models
@@ -57,9 +57,9 @@ The modules are organized into three blocks to facilitate sequential integration
 
 ### Principal Investigators
 
-- **Prof. Naomi Levy-Strumpf**, Assistant Professor, Teaching Stream, Department of Cell & Systems Biology & Human Biology, Faculty of Arts and Science
-- **Prof. David Liu**, Associate Professor, Teaching Stream, Computer Science, Faculty of Arts and Science
-- **Prof. Alice Gao**, Assistant Professor, Teaching Stream, Computer Science, Faculty of Arts and Science
+- **Prof. Naomi Levy-Strumpf**, Assistant Professor, Teaching Stream, Department of Cell & Systems Biology and Human Biology, Faculty of Arts & Science
+- **Prof. David Liu**, Associate Professor, Teaching Stream, Computer Science, Faculty of Arts & Science
+- **Prof. Alice Gao**, Assistant Professor, Teaching Stream, Computer Science, Faculty of Arts & Science
 
 ### Project Team
 
