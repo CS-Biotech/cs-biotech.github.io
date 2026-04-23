@@ -63,7 +63,7 @@ The modules are organized into three blocks to facilitate sequential integration
 
 ### Project Team
 
-**Module Developers:** Gerd Bizi, Edward Chen, Micaela Consens, Sophie Kim, Max Kirby, Emily Nguyen, Nakul Upadhya, Elias Williams
+**Module Developers:** Gerd Bizi, Edward Chen, Micaela Consens, Sophie Kim, Maxim Kirby, Emily Nguyen, Nakul Upadhya, Elias Williams
 
 **Research Assistants:** Mahreen Khan, Jennifer Pfeil, Reuben Philip, Cory Richman, Callum Stirton
 
