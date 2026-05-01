@@ -28,6 +28,8 @@ DISPLAY_PAGES_ON_MENU = False
 
 THEME_TEMPLATES_OVERRIDES = ['templates']
 
+STATIC_PATHS = ['files']
+
 LINKS = ()
 SOCIAL = ()
 DEFAULT_PAGINATION = False

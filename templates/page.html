@@ -3,6 +3,11 @@
 {% block head %}
   {{ super() }}
   <meta name="description" content="{{ page.summary|striptags }}">
+  <style>
+    .content ol > li {
+      margin-bottom: 1.5rem;
+    }
+  </style>
 {% endblock %}
 
 {% block title %}
